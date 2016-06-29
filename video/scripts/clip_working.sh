@@ -1,0 +1,1 @@
+ffmpeg -ss 00:00:59.3 -i repreapproval.mp4 -c copy -an -t 00:00:08.0  working_5.mp4
